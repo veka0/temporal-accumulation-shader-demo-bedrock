@@ -1,0 +1,3991 @@
+{
+    "num_mip_levels": 4,
+    "padding": 8,
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+    	"custom": {
+      "textures": "textures/bg"
+    },
+    "element_label_0": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "element_label_1": {
+      "textures": "textures/pixel"
+    },
+    "element_label_2": {
+      "textures": "textures/pixel"
+    },
+    "element_label_3": {
+      "textures": "textures/pixel"
+    },
+    "element_label_4": {
+      "textures": "textures/pixel"
+    },
+    "element_label_5": {
+      "textures": "textures/pixel"
+    },
+    "element_label_6": {
+      "textures": "textures/pixel"
+    },
+    "element_label_7": {
+      "textures": "textures/pixel"
+    },
+    "element_label_8": {
+      "textures": "textures/pixel"
+    },
+    "element_label_9": {
+      "textures": "textures/pixel"
+    },
+    "element_label_10": {
+      "textures": "textures/pixel"
+    },
+    "element_label_11": {
+      "textures": "textures/pixel"
+    },
+    "element_label_12": {
+      "textures": "textures/pixel"
+    },
+    "element_label_13": {
+      "textures": "textures/pixel"
+    },
+    "element_label_14": {
+      "textures": "textures/pixel"
+    },
+    "element_label_15": {
+      "textures": "textures/pixel"
+    },
+    "element_label_16": {
+      "textures": "textures/pixel"
+    },
+    "element_label_17": {
+      "textures": "textures/pixel"
+    },
+    "element_label_18": {
+      "textures": "textures/pixel"
+    },
+    "element_label_19": {
+      "textures": "textures/pixel"
+    },
+    "element_label_20": {
+      "textures": "textures/pixel"
+    },
+    "element_label_21": {
+      "textures": "textures/pixel"
+    },
+    "element_label_22": {
+      "textures": "textures/pixel"
+    },
+    "element_label_23": {
+      "textures": "textures/pixel"
+    },
+    "element_label_24": {
+      "textures": "textures/pixel"
+    },
+    "element_label_25": {
+      "textures": "textures/pixel"
+    },
+    "element_label_26": {
+      "textures": "textures/pixel"
+    },
+    "element_label_27": {
+      "textures": "textures/pixel"
+    },
+    "element_label_28": {
+      "textures": "textures/pixel"
+    },
+    "element_label_29": {
+      "textures": "textures/pixel"
+    },
+    "element_label_30": {
+      "textures": "textures/pixel"
+    },
+    "element_label_31": {
+      "textures": "textures/pixel"
+    },
+    "element_label_32": {
+      "textures": "textures/pixel"
+    },
+    "element_label_33": {
+      "textures": "textures/pixel"
+    },
+    "element_label_34": {
+      "textures": "textures/pixel"
+    },
+    "element_label_35": {
+      "textures": "textures/pixel"
+    },
+    "element_label_36": {
+      "textures": "textures/pixel"
+    },
+    "element_label_37": {
+      "textures": "textures/pixel"
+    },
+    "element_label_38": {
+      "textures": "textures/pixel"
+    },
+    "element_label_39": {
+      "textures": "textures/pixel"
+    },
+    "element_label_40": {
+      "textures": "textures/pixel"
+    },
+    "element_label_41": {
+      "textures": "textures/pixel"
+    },
+    "element_label_42": {
+      "textures": "textures/pixel"
+    },
+    "element_label_43": {
+      "textures": "textures/pixel"
+    },
+    "element_label_44": {
+      "textures": "textures/pixel"
+    },
+    "element_label_45": {
+      "textures": "textures/pixel"
+    },
+    "element_label_46": {
+      "textures": "textures/pixel"
+    },
+    "element_label_47": {
+      "textures": "textures/pixel"
+    },
+    "element_label_48": {
+      "textures": "textures/pixel"
+    },
+    "element_label_49": {
+      "textures": "textures/pixel"
+    },
+    "element_label_50": {
+      "textures": "textures/pixel"
+    },
+    "element_label_51": {
+      "textures": "textures/pixel"
+    },
+    "element_label_52": {
+      "textures": "textures/pixel"
+    },
+    "element_label_53": {
+      "textures": "textures/pixel"
+    },
+    "element_label_54": {
+      "textures": "textures/pixel"
+    },
+    "element_label_55": {
+      "textures": "textures/pixel"
+    },
+    "element_label_56": {
+      "textures": "textures/pixel"
+    },
+    "element_label_57": {
+      "textures": "textures/pixel"
+    },
+    "element_label_58": {
+      "textures": "textures/pixel"
+    },
+    "element_label_59": {
+      "textures": "textures/pixel"
+    },
+    "element_label_60": {
+      "textures": "textures/pixel"
+    },
+    "element_label_61": {
+      "textures": "textures/pixel"
+    },
+    "element_label_62": {
+      "textures": "textures/pixel"
+    },
+    "element_label_63": {
+      "textures": "textures/pixel"
+    },
+    "element_label_64": {
+      "textures": "textures/pixel"
+    },
+    "element_label_65": {
+      "textures": "textures/pixel"
+    },
+    "element_label_66": {
+      "textures": "textures/pixel"
+    },
+    "element_label_67": {
+      "textures": "textures/pixel"
+    },
+    "element_label_68": {
+      "textures": "textures/pixel"
+    },
+    "element_label_69": {
+      "textures": "textures/pixel"
+    },
+    "element_label_70": {
+      "textures": "textures/pixel"
+    },
+    "element_label_71": {
+      "textures": "textures/pixel"
+    },
+    "element_label_72": {
+      "textures": "textures/pixel"
+    },
+    "element_label_73": {
+      "textures": "textures/pixel"
+    },
+    "element_label_74": {
+      "textures": "textures/pixel"
+    },
+    "element_label_75": {
+      "textures": "textures/pixel"
+    },
+    "element_label_76": {
+      "textures": "textures/pixel"
+    },
+    "element_label_77": {
+      "textures": "textures/pixel"
+    },
+    "element_label_78": {
+      "textures": "textures/pixel"
+    },
+    "element_label_79": {
+      "textures": "textures/pixel"
+    },
+    "element_label_80": {
+      "textures": "textures/pixel"
+    },
+    "element_label_81": {
+      "textures": "textures/pixel"
+    },
+    "element_label_82": {
+      "textures": "textures/pixel"
+    },
+    "element_label_83": {
+      "textures": "textures/pixel"
+    },
+    "element_label_84": {
+      "textures": "textures/pixel"
+    },
+    "element_label_85": {
+      "textures": "textures/pixel"
+    },
+    "element_label_86": {
+      "textures": "textures/pixel"
+    },
+    "element_label_87": {
+      "textures": "textures/pixel"
+    },
+    "element_label_88": {
+      "textures": "textures/pixel"
+    },
+    "element_label_89": {
+      "textures": "textures/pixel"
+    },
+    "element_label_90": {
+      "textures": "textures/pixel"
+    },
+    "element_label_91": {
+      "textures": "textures/pixel"
+    },
+    "element_label_92": {
+      "textures": "textures/pixel"
+    },
+    "element_label_93": {
+      "textures": "textures/pixel"
+    },
+    "element_label_94": {
+      "textures": "textures/pixel"
+    },
+    "element_label_95": {
+      "textures": "textures/pixel"
+    },
+    "element_label_96": {
+      "textures": "textures/pixel"
+    },
+    "element_label_97": {
+      "textures": "textures/pixel"
+    },
+    "element_label_98": {
+      "textures": "textures/pixel"
+    },
+    "element_label_99": {
+      "textures": "textures/pixel"
+    },
+    "element_label_100": {
+      "textures": "textures/pixel"
+    },
+    "element_label_101": {
+      "textures": "textures/pixel"
+    },
+    "element_label_102": {
+      "textures": "textures/pixel"
+    },
+    "element_label_103": {
+      "textures": "textures/pixel"
+    },
+    "element_label_104": {
+      "textures": "textures/pixel"
+    },
+    "element_label_105": {
+      "textures": "textures/pixel"
+    },
+    "element_label_106": {
+      "textures": "textures/pixel"
+    },
+    "element_label_107": {
+      "textures": "textures/pixel"
+    },
+    "element_label_108": {
+      "textures": "textures/pixel"
+    },
+    "element_label_109": {
+      "textures": "textures/pixel"
+    },
+    "element_label_110": {
+      "textures": "textures/pixel"
+    },
+    "element_label_111": {
+      "textures": "textures/pixel"
+    },
+    "element_label_112": {
+      "textures": "textures/pixel"
+    },
+    "element_label_113": {
+      "textures": "textures/pixel"
+    },
+    "element_label_114": {
+      "textures": "textures/pixel"
+    },
+    "element_label_115": {
+      "textures": "textures/pixel"
+    },
+    "element_label_116": {
+      "textures": "textures/pixel"
+    },
+    "element_label_117": {
+      "textures": "textures/pixel"
+    },
+    "element_label_118": {
+      "textures": "textures/pixel"
+    },
+    "chemistry_table_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "chemistry_table_bottom": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "chemistry_table_south": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "chemistry_table_east": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "chemistry_table_north": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "chemistry_table_west": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "chemical_heat": {
+      "textures": "textures/pixel"
+    },
+    "underwater_torch": {
+      "textures": "textures/pixel"
+    },
+    "colored_torch": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "tnt_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "tnt_bottom": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "tnt_side": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "hard_glass": {
+      "textures": "textures/pixel"
+    },
+    "hard_stained_glass": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "glow_stick": {
+      // Glow stick uses almost all dye colors. Fill in holes with placeholders so variant id matches dye id
+      "textures": [
+        "textures/pixel", // Black unused
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel", // Silver/Light gray unused
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    
+    "sculk_sensor_top": {
+      "textures": "textures/pixel"
+    },
+    "sculk_sensor_side": {
+      "textures": "textures/pixel"
+    },
+    "sculk_sensor_bottom": {
+      "textures": "textures/pixel"
+    },
+    "sculk_sensor_tendril_inactive": {
+      "textures": "textures/pixel"
+    },
+    "sculk_sensor_tendril_active": {
+      "textures": "textures/pixel"
+    },
+    "sculk": {
+      "textures": "textures/pixel"
+    },
+    "sculk_vein": {
+      "textures": "textures/pixel"
+    },
+    "sculk_catalyst_bottom": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "sculk_catalyst_side": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "sculk_catalyst_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "sculk_shrieker_bottom": {
+      "textures": "textures/pixel"
+    },
+    "sculk_shrieker_inner_top": {
+      "textures": "textures/pixel"
+    },
+    "sculk_shrieker_side": {
+      "textures": "textures/pixel"
+    },
+    "sculk_shrieker_top": {
+      "textures": "textures/pixel"
+    },
+    "frog_egg": {
+      "textures": "textures/pixel"
+    },
+    "pearlescent_froglight": {
+      "textures": "textures/pixel"
+    },
+    "verdant_froglight": {
+      "textures": "textures/pixel"
+    },
+    "ochre_froglight": {
+      "textures": "textures/pixel"
+    },
+    
+    "potted_azalea_bush_plant": {
+      "textures": "textures/pixel"
+    },
+    "potted_azalea_bush_side": {
+      "textures": "textures/pixel"
+    },
+    "potted_azalea_bush_top": {
+      "textures": "textures/pixel"
+    },
+    "potted_flowering_azalea_bush_plant": {
+      "textures": "textures/pixel"
+    },
+    "potted_flowering_azalea_bush_side": {
+      "textures": "textures/pixel"
+    },
+    "potted_flowering_azalea_bush_top": {
+      "textures": "textures/pixel"
+    },
+    "candle": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "candle_carried": {
+      "textures": "textures/pixel"
+    },
+    "white_candle": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "white_candle_carried": {
+      "textures": "textures/pixel"
+    },
+    "orange_candle": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "orange_candle_carried": {
+      "textures": "textures/pixel"
+    },
+    "magenta_candle": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "magenta_candle_carried": {
+      "textures": "textures/pixel"
+    },
+    "light_blue_candle": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "light_blue_candle_carried": {
+      "textures": "textures/pixel"
+    },
+    "yellow_candle": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "yellow_candle_carried": {
+      "textures": "textures/pixel"
+    },
+    "lime_candle": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "lime_candle_carried": {
+      "textures": "textures/pixel"
+    },
+    "pink_candle": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "pink_candle_carried": {
+      "textures": "textures/pixel"
+    },
+    "gray_candle": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "gray_candle_carried": {
+      "textures": "textures/pixel"
+    },
+    "light_gray_candle": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "light_gray_candle_carried": {
+      "textures": "textures/pixel"
+    },
+    "cyan_candle": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "cyan_candle_carried": {
+      "textures": "textures/pixel"
+    },
+    "purple_candle": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "purple_candle_carried": {
+      "textures": "textures/pixel"
+    },
+    "blue_candle": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "blue_candle_carried": {
+      "textures": "textures/pixel"
+    },
+    "brown_candle": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "brown_candle_carried": {
+      "textures": "textures/pixel"
+    },
+    "green_candle": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "green_candle_carried": {
+      "textures": "textures/pixel"
+    },
+    "red_candle": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "red_candle_carried": {
+      "textures": "textures/pixel"
+    },
+    "black_candle": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "black_candle_carried": {
+      "textures": "textures/pixel"
+    },
+    "candle_cake": {
+      "textures": "textures/pixel"
+    },
+    "white_candle_cake": {
+      "textures": "textures/pixel"
+    },
+    "yellow_candle_cake": {
+      "textures": "textures/pixel"
+    },
+    "lime_candle_cake": {
+      "textures": "textures/pixel"
+    },
+    "pink_candle_cake": {
+      "textures": "textures/pixel"
+    },
+    "gray_candle_cake": {
+      "textures": "textures/pixel"
+    },
+    "light_gray_candle_cake": {
+      "textures": "textures/pixel"
+    },
+    "cyan_candle_cake": {
+      "textures": "textures/pixel"
+    },
+    "purple_candle_cake": {
+      "textures": "textures/pixel"
+    },
+    "blue_candle_cake": {
+      "textures": "textures/pixel"
+    },
+    "brown_candle_cake": {
+      "textures": "textures/pixel"
+    },
+    "green_candle_cake": {
+      "textures": "textures/pixel"
+    },
+    "red_candle_cake": {
+      "textures": "textures/pixel"
+    },
+    "black_candle_cake": {
+      "textures": "textures/pixel"
+    },
+    
+    "powder_snow": {
+      "textures": "textures/pixel"
+    },
+    "glow_item_frame": {
+      "textures": "textures/pixel"
+    },
+    "glow_lichen": {
+      "textures": "textures/pixel"
+    },
+    "amethyst_block": {
+      "textures": "textures/pixel"
+    },
+    "amethyst_cluster": {
+      "textures": "textures/pixel"
+    },
+    "large_amethyst_bud": {
+      "textures": "textures/pixel"
+    },
+    "medium_amethyst_bud": {
+      "textures": "textures/pixel"
+    },
+    "small_amethyst_bud": {
+      "textures": "textures/pixel"
+    },
+    "budding_amethyst": {
+      "textures": "textures/pixel"
+    },
+    "calcite": {
+      "textures": "textures/pixel"
+    },
+    "tinted_glass": {
+      "textures": "textures/pixel"
+    },
+    "tuff": {
+      "textures": "textures/pixel"
+    },
+    "smooth_basalt": {
+      "textures": "textures/pixel"
+    },
+    "chiseled_deepslate": {
+      "textures": "textures/pixel"
+    },
+    "cobbled_deepslate": {
+      "textures": "textures/pixel"
+    },
+    "pointed_dripstone_base": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "pointed_dripstone_tip": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "pointed_dripstone_frustum": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "pointed_dripstone_middle": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "pointed_dripstone_merge": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "dripstone_block": {
+      "textures": "textures/pixel"
+    },
+    "big_dripleaf_side1": {
+      "textures": "textures/pixel"
+    },
+    "big_dripleaf_side2": {
+      "textures": "textures/pixel"
+    },
+    "big_dripleaf_stem": {
+      "textures": "textures/pixel"
+    },
+    "big_dripleaf_top": {
+      "textures": "textures/pixel"
+    },
+    "small_dripleaf_top": {
+      "textures": "textures/pixel"
+    },
+    "small_dripleaf_side": {
+      "textures": "textures/pixel"
+    },
+    "small_dripleaf_stem_top": {
+      "textures": "textures/pixel"
+    },
+    "small_dripleaf_stem_bottom": {
+      "textures": "textures/pixel"
+    },
+    "dirt_with_roots": {
+      "textures": "textures/pixel"
+    },
+    "hanging_roots": {
+      "textures": "textures/pixel"
+    },
+    "spore_blossom": {
+      "textures": "textures/pixel"
+    },
+    "spore_blossom_base": {
+      "textures": "textures/pixel"
+    },
+    "azalea_leaves": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "azalea_leaves_flowered": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "azalea_plant": {
+      "textures": "textures/pixel"
+    },
+    "azalea_side": {
+      "textures": "textures/pixel"
+    },
+    "azalea_top": {
+      "textures": "textures/pixel"
+    },
+    "flowering_azalea_side": {
+      "textures": "textures/pixel"
+    },
+    "flowering_azalea_top": {
+      "textures": "textures/pixel"
+    },
+    "cave_vines_head": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "cave_vines_body": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "moss_block": {
+      "textures": "textures/pixel"
+    },
+    "deepslate": {
+      "textures": "textures/pixel"
+    },
+    "deepslate_bricks": {
+      "textures": "textures/pixel"
+    },
+    "deepslate_diamond_ore": {
+      "textures": "textures/pixel"
+    },
+    "deepslate_gold_ore": {
+      "textures": "textures/pixel"
+    },
+    "deepslate_iron_ore": {
+      "textures": "textures/pixel"
+    },
+    "deepslate_lapis_ore": {
+      "textures": "textures/pixel"
+    },
+    "deepslate_redstone_ore": {
+      "textures": "textures/pixel"
+    },
+    "deepslate_tiles": {
+      "textures": "textures/pixel"
+    },
+    "deepslate_top": {
+      "textures": "textures/pixel"
+    },
+    "polished_deepslate": {
+      "textures": "textures/pixel"
+    },
+    "deepslate_coal_ore": {
+      "textures": "textures/pixel"
+    },
+    "deepslate_emerald_ore": {
+      "textures": "textures/pixel"
+    },
+    "deepslate_copper_ore": {
+      "textures": "textures/pixel"
+    },
+    "cracked_deepslate_tiles": {
+      "textures": "textures/pixel"
+    },
+    "cracked_deepslate_bricks": {
+      "textures": "textures/pixel"
+    },
+    "copper_ore": {
+      "textures": "textures/pixel"
+    },
+    "copper_block": {
+      "textures": "textures/pixel"
+    },
+    "exposed_copper": {
+      "textures": "textures/pixel"
+    },
+    "weathered_copper": {
+      "textures": "textures/pixel"
+    },
+    "oxidized_copper": {
+      "textures": "textures/pixel"
+    },
+    "cut_copper": {
+      "textures": "textures/pixel"
+    },
+    "exposed_cut_copper": {
+      "textures": "textures/pixel"
+    },
+    "weathered_cut_copper": {
+      "textures": "textures/pixel"
+    },
+    "oxidized_cut_copper": {
+      "textures": "textures/pixel"
+    },
+    "lightning_rod": {
+      "textures": "textures/pixel"
+    },
+    "raw_copper_block": {
+      "textures": "textures/pixel"
+    },
+    "raw_iron_block": {
+      "textures": "textures/pixel"
+    },
+    "raw_gold_block": {
+      "textures": "textures/pixel"
+    },
+    
+    "lodestone_top": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "lodestone_side": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "crimson_roots": {
+      "textures": "textures/pixel"
+    },
+    "crimson_roots_pot": {
+      "textures": "textures/pixel"
+    },
+    "warped_roots": {
+      "textures": "textures/pixel"
+    },
+    "warped_roots_pot": {
+      "textures": "textures/pixel"
+    },
+    "nether_shroom_red": {
+      "textures": "textures/pixel"
+    },
+    "nether_shroom_blue": {
+      "textures": "textures/pixel"
+    },
+    "warped_wart_block": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "crimson_log_side": {
+      "textures": "textures/pixel"
+    },
+    "crimson_log_top": {
+      "textures": "textures/pixel"
+    },
+    "warped_stem_side": {
+      "textures": "textures/pixel"
+    },
+    "warped_stem_top": {
+      "textures": "textures/pixel"
+    },
+    "stripped_crimson_stem_side": {
+      "textures": "textures/pixel"
+    },
+    "stripped_crimson_stem_top": {
+      "textures": "textures/pixel"
+    },
+    "stripped_warped_stem_side": {
+      "textures": "textures/pixel"
+    },
+    "stripped_warped_stem_top": {
+      "textures": "textures/pixel"
+    },
+    "shroomlight": {
+      "textures": "textures/pixel"
+    },
+    "crimson_nylium_side": {
+      "textures": "textures/pixel"
+    },
+    "crimson_nylium_top": {
+      "textures": "textures/pixel"
+    },
+    "warped_nylium_side": {
+      "textures": "textures/pixel"
+    },
+    "warped_nylium_top": {
+      "textures": "textures/pixel"
+    },
+    "basalt_side": {
+      "textures": "textures/pixel"
+    },
+    "basalt_top": {
+      "textures": "textures/pixel"
+    },
+    "polished_basalt_side": {
+      "textures": "textures/pixel"
+    },
+    "polished_basalt_top": {
+      "textures": "textures/pixel"
+    },
+    "soul_soil": {
+      "textures": "textures/pixel"
+    },
+    "soul_fire_0": {
+      "textures": "textures/pixel"
+    },
+    "soul_fire_1": {
+      "textures": "textures/pixel"
+    },
+    "weeping_vines_base": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "weeping_vines_bottom": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "twisting_vines_base": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "twisting_vines_bottom": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "nether_sprouts": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "target_top": {
+      "textures": "textures/pixel"
+    },
+    "target_side": {
+      "textures": "textures/pixel"
+    },
+    "soul_torch": {
+      "textures": "textures/pixel"
+    },
+    "soul_lantern": {
+      "textures": "textures/pixel"
+    },
+    "soul_lantern_carried": {
+      "textures": "textures/pixel"
+    },
+    "netherite_block": {
+      "textures": "textures/pixel"
+    },
+    "ancient_debris_top": {
+      "textures": "textures/pixel"
+    },
+    "ancient_debris_side": {
+      "textures": "textures/pixel"
+    },
+    "warped_sign": {
+      "textures": "textures/pixel"
+    },
+    "crimson_sign": {
+      "textures": "textures/pixel"
+    },
+    "crimson_door_top": {
+      "textures": "textures/pixel"
+    },
+    "warped_door_top": {
+      "textures": "textures/pixel"
+    },
+    "crimson_door_lower": {
+      "textures": "textures/pixel"
+    },
+    "warped_door_lower": {
+      "textures": "textures/pixel"
+    },
+    "crimson_planks": {
+      "textures": "textures/pixel"
+    },
+    "warped_planks": {
+      "textures": "textures/pixel"
+    },
+    "crimson_trapdoor": {
+      "textures": "textures/pixel"
+    },
+    "warped_trapdoor": {
+      "textures": "textures/pixel"
+    },
+    "stone_slab_bottom": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "stone_slab_top_4": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "stone_slab_bottom_4": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "stone_slab_side_4": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "quartz_block_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "quartz_block_bottom": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "quartz_block_side": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "stair_quartz_block_bottom": {
+      "textures": "textures/pixel"
+    },
+    "stair_smooth_quartz_block": {
+      "textures": "textures/pixel"
+    },
+    "jigsaw_lock": {
+      "textures": "textures/pixel"
+    },
+    "blackstone": {
+      "textures": "textures/pixel"
+    },
+    "nether_gold_ore": {
+      "textures": "textures/pixel"
+    },
+    "respawn_anchor_bottom": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "respawn_anchor_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "respawn_anchor_side": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "crying_obsidian": {
+      "textures": "textures/pixel"
+    },
+    "blackstone_top": {
+      "textures": "textures/pixel"
+    },
+    "chiseled_polished_blackstone": {
+      "textures": "textures/pixel"
+    },
+    "polished_blackstone_bricks": {
+      "textures": "textures/pixel"
+    },
+    "cracked_polished_blackstone_bricks": {
+      "textures": "textures/pixel"
+    },
+    "gilded_blackstone": {
+      "textures": "textures/pixel"
+    },
+    "chain1": {
+      "textures": "textures/pixel"
+    },
+    "chain2": {
+      "textures": "textures/pixel"
+    },
+    "polished_blackstone": {
+      "textures": "textures/pixel"
+    },
+    "soul_campfire_fire": {
+      "textures": "textures/pixel"
+    },
+    "soul_campfire_log_lit": {
+      "textures": "textures/pixel"
+    },
+    "chiseled_nether_bricks": {
+      "textures": "textures/pixel"
+    },
+    "cracked_nether_bricks": {
+      "textures": "textures/pixel"
+    },
+    "quartz_bricks": {
+      "textures": "textures/pixel"
+    },
+    
+    "bee_nest_top": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "bee_nest_front": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "bee_nest_side": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "bee_nest_bottom": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "beehive_top": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "beehive_side": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "beehive_front": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "honey_side": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "honey_top": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "honey_bottom": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "honeycomb_block": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    
+    "missing": {
+      "textures": "textures/pixel"
+    },
+    "grass_side": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "grass_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "grass_bottom": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "grass_carried_top": {
+      "textures": "textures/pixel"
+    },
+    "grass_carried_bottom": {
+      "textures": "textures/pixel"
+    },
+    "grass_carried": {
+      "textures": "textures/pixel"
+    },
+    "stone": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "cobblestone": {
+      "textures": "textures/pixel"
+    },
+    "cobblestone_mossy": {
+      "textures": "textures/pixel"
+    },
+    "cobblestone_wall": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "stonebrick": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "monster_egg": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "barrier": {
+      "textures": "textures/pixel"
+    },
+    "bedrock": {
+      "textures": "textures/pixel"
+    },
+    "obsidian": {
+      "textures": "textures/pixel"
+    },
+    "clay": {
+      "textures": "textures/pixel"
+    },
+    "sand": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "sandstone_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "sandstone_bottom": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel", // This isn't a bug
+        "textures/pixel", // This isn't a bug
+        "textures/pixel"
+      ]
+    },
+    "sandstone_side": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+
+      ]
+    },
+    "redsandstone_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "redsandstone_bottom": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "redsandstone_side": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "redsandstone": {
+      "textures": "textures/pixel"
+    },
+    "gravel": {
+      "textures": "textures/pixel"
+    },
+    "dirt": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "dirt_podzol_top": {
+      "textures": "textures/pixel"
+    },
+    "dirt_podzol_bottom": {
+      "textures": "textures/pixel"
+    },
+    "dirt_podzol_side": {
+      "textures": "textures/pixel"
+    },
+    "planks": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "acacia_planks": {
+      "textures": "textures/pixel"
+    },
+    "birch_planks": {
+      "textures": "textures/pixel"
+    },
+    "dark_oak_planks": {
+      "textures": "textures/pixel"
+    },
+    "jungle_planks": {
+      "textures": "textures/pixel"
+    },
+    "spruce_planks": {
+      "textures": "textures/pixel"
+    },
+    "sign": {
+      "textures": "textures/pixel"
+    },
+    "spruce_sign": {
+      "textures": "textures/pixel"
+    },
+    "birch_sign": {
+      "textures": "textures/pixel"
+    },
+    "jungle_sign": {
+      "textures": "textures/pixel"
+    },
+    "acacia_sign": {
+      "textures": "textures/pixel"
+    },
+    "darkoak_sign": {
+      "textures": "textures/pixel"
+    },
+    "wood_oak": {
+      "textures": "textures/pixel"
+    },
+    "wood_spruce": {
+      "textures": "textures/pixel"
+    },
+    "wood_birch": {
+      "textures": "textures/pixel"
+    },
+    "wood_jungle": {
+      "textures": "textures/pixel"
+    },
+    "wood_acacia": {
+      "textures": "textures/pixel"
+    },
+    "wood_big_oak": {
+      "textures": "textures/pixel"
+    },
+    "stone_slab_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "stone_slab_bottom": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "stone_slab_side": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "coral_block": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "chorus_plant": {
+      "textures": "textures/pixel"
+    },
+    "chorus_flower": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "stone_slab_top_2": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+
+      ]
+    },
+    "stone_slab_bottom_2": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+
+      ]
+    },
+    "stone_slab_side_2": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+
+      ]
+    },
+    "stone_slab_top_3": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "stone_slab_bottom_3": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "stone_slab_side_3": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "stone_slab_top_4": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "stone_slab_bottom_4": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "stone_slab_side_4": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "stone_slab": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "brick": {
+      "textures": "textures/pixel"
+    },
+    "bookshelf_top": {
+      "textures": "textures/pixel"
+    },
+    "bookshelf": {
+      "textures": "textures/pixel"
+    },
+    "web": {
+      "textures": "textures/pixel"
+    },
+    "yellow_flower": {
+      "textures": "textures/pixel"
+    },
+    "red_flower": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "wither_rose": {
+      "textures": "textures/pixel"
+    },
+    "double_plant_bottom": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "double_plant_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "double_plant_carried": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "sunflower_additional": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "sapling": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "log_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "log_side": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "log2": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "log_top2": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "log_side2": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "stripped_oak_log_top": {
+      "textures": "textures/pixel"
+    },
+    "stripped_oak_log_side": {
+      "textures": "textures/pixel"
+    },
+    "stripped_birch_log_top": {
+      "textures": "textures/pixel"
+    },
+    "stripped_birch_log_side": {
+      "textures": "textures/pixel"
+    },
+    "stripped_dark_oak_log_top": {
+      "textures": "textures/pixel"
+    },
+    "stripped_dark_oak_log_side": {
+      "textures": "textures/pixel"
+    },
+    "stripped_acacia_log_top": {
+      "textures": "textures/pixel"
+    },
+    "stripped_acacia_log_side": {
+      "textures": "textures/pixel"
+    },
+    "stripped_jungle_log_top": {
+      "textures": "textures/pixel"
+    },
+    "stripped_jungle_log_side": {
+      "textures": "textures/pixel"
+    },
+    "stripped_spruce_log_top": {
+      "textures": "textures/pixel"
+    },
+    "stripped_spruce_log_side": {
+      "textures": "textures/pixel"
+    },
+
+    "iron_block": {
+      "textures": "textures/pixel"
+    },
+    "gold_block": {
+      "textures": "textures/pixel"
+    },
+    "diamond_block": {
+      "textures": "textures/pixel"
+    },
+    "coal_block": {
+      "textures": "textures/pixel"
+    },
+    "lapis_block": {
+      "textures": "textures/pixel"
+    },
+    "emerald_block": {
+      "textures": "textures/pixel"
+    },
+    "redstone_block": {
+      "textures": "textures/pixel"
+    },
+    "quartz_block_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "quartz_block_bottom": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "quartz_block_side": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "stair_quartz_block_top": {
+      "textures": "textures/pixel"
+    },
+    "stair_quartz_block_bottom": {
+      "textures": "textures/pixel"
+    },
+    "stair_quartz_block_side": {
+      "textures": "textures/pixel"
+    },
+    "purpur_block_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "purpur_block_bottom": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "purpur_block_side": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "stair_purpur_block": {
+      "textures": "textures/pixel"
+    },
+    "structure_block": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "jigsaw_side": {
+      "textures": "textures/pixel"
+    },
+    "jigsaw_front": {
+      "textures": "textures/pixel"
+    },
+    "jigsaw_back": {
+      "textures": "textures/pixel"
+    },
+    "structure_void": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "mushroom_red": {
+      "textures": "textures/pixel"
+    },
+    "mushroom_brown": {
+      "textures": "textures/pixel"
+    },
+    "gold_ore": {
+      "textures": "textures/pixel"
+    },
+    "iron_ore": {
+      "textures": "textures/pixel"
+    },
+    "coal_ore": {
+      "textures": "textures/pixel"
+    },
+    "lapis_ore": {
+      "textures": "textures/pixel"
+    },
+    "diamond_ore": {
+      "textures": "textures/pixel"
+    },
+    "redstone_ore": {
+      "textures": "textures/pixel"
+    },
+    "emerald_ore": {
+      "textures": "textures/pixel"
+    },
+    "quartz_ore": {
+      "textures": "textures/pixel"
+    },
+    "tallgrass": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "tallgrass_carried": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "seagrass_carried": {
+      "textures": "textures/pixel"
+    },
+    "seagrass_short": {
+      "textures": "textures/pixel"
+    },
+    "seagrass_tall_bot_a": {
+      "textures": "textures/pixel"
+    },
+    "seagrass_tall_bot_b": {
+      "textures": "textures/pixel"
+    },
+    "seagrass_tall_top_a": {
+      "textures": "textures/pixel"
+    },
+    "seagrass_tall_top_b": {
+      "textures": "textures/pixel"
+    },
+    "coral": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "coral_fan": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "coral_fan_dead": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "coral_fan_hang_a": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "coral_fan_hang_b": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "coral_fan_hang_c": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "deadbush": {
+      "textures": "textures/pixel"
+    },
+    "crafting_table_top": {
+      "textures": "textures/pixel"
+    },
+    "crafting_table_bottom": {
+      "textures": "textures/pixel"
+    },
+    "crafting_table_side": {
+      "textures": "textures/pixel"
+    },
+    "crafting_table_front": {
+      "textures": "textures/pixel"
+    },
+    "furnace": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "furnace_front": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "furnace_front_off": {
+      "textures": "textures/pixel"
+    },
+    "furnace_front_on": {
+      "textures": "textures/pixel"
+    },
+    "furnace_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "furnace_side": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "stonecutter_top": {
+      "textures": "textures/pixel"
+    },
+    "stonecutter_bottom": {
+      "textures": "textures/pixel"
+    },
+    "stonecutter_side": {
+      "textures": "textures/pixel"
+    },
+    "stonecutter_other_side": {
+      "textures": "textures/pixel"
+    },
+    "stonecutter2_top": {
+      "textures": "textures/pixel"
+    },
+    "stonecutter2_bottom": {
+      "textures": "textures/pixel"
+    },
+    "stonecutter2_side": {
+      "textures": "textures/pixel"
+    },
+    "stonecutter2_saw": {
+      "textures": "textures/pixel"
+    },
+    "sponge": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "glass": {
+      "textures": "textures/pixel"
+    },
+    "glass_pane_top": {
+      "textures": "textures/pixel"
+    },
+    "leaves": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "leaves_carried": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "leaves2": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "leaves_carried2": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "mob_spawner": {
+      "textures": "textures/pixel"
+    },
+    "snow": {
+      "textures": "textures/pixel"
+    },
+    "ice": {
+      "textures": "textures/pixel"
+    },
+    "ice_packed": {
+      "textures": "textures/pixel"
+    },
+    "blue_ice": {
+      "textures": "textures/pixel"
+    },
+    "cactus_top": {
+      "textures": "textures/pixel"
+    },
+    "cactus_side": {
+      "textures": "textures/pixel"
+    },
+    "cactus_bottom": {
+      "textures": "textures/pixel"
+    },
+    "reeds": {
+      "textures": "textures/pixel"
+    },
+    "jukebox_side": {
+      "textures": "textures/pixel"
+    },
+    "jukebox_top": {
+      "textures": "textures/pixel"
+    },
+    "waterlily": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "waterlily_carried": {
+      "textures": "textures/pixel"
+    },
+    "mycelium_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "mycelium_bottom": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "mycelium_side": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "torch_on": {
+      "textures": "textures/pixel"
+    },
+    "redstone_torch_on": {
+      "textures": "textures/pixel"
+    },
+    "redstone_torch_off": {
+      "textures": "textures/pixel"
+    },
+    "door_lower": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "door_upper": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "ladder": {
+      "textures": "textures/pixel"
+    },
+    "trapdoor": {
+      "textures": "textures/pixel"
+    },
+    "acacia_trapdoor": {
+      "textures": "textures/pixel"
+    },
+    "birch_trapdoor": {
+      "textures": "textures/pixel"
+    },
+    "dark_oak_trapdoor": {
+      "textures": "textures/pixel"
+    },
+    "jungle_trapdoor": {
+      "textures": "textures/pixel"
+    },
+    "spruce_trapdoor": {
+      "textures": "textures/pixel"
+    },
+    "iron_trapdoor": {
+      "textures": "textures/pixel"
+    },
+    "iron_bars": {
+      "textures": "textures/pixel"
+    },
+    "iron_bars_edge": {
+      "textures": "textures/pixel"
+    },
+    "farmland": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "farmland_side": {
+      "textures": "textures/pixel"
+    },
+    "wheat": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "grass_path_top": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "grass_path_side": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "lever": {
+      "textures": "textures/pixel"
+    },
+    "lever_particle": {
+      "textures": "textures/pixel"
+    },
+    "pumpkin_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "pumpkin_side": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "pumpkin_face": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "netherrack": {
+      "textures": "textures/pixel"
+    },
+    "nether_brick": {
+      "textures": "textures/pixel"
+    },
+    "nether_wart": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "magma": {
+      "textures": "textures/pixel"
+    },
+    "bubble_column_outer": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "bubble_column_mid": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "bubble_column_up_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "bubble_column_down_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "nether_wart_block": {
+      "textures": "textures/pixel"
+    },
+    "red_nether_brick": {
+      "textures": "textures/pixel"
+    },
+    "soul_sand": {
+      "textures": "textures/pixel"
+    },
+    "skull": {
+      "textures": "textures/pixel"
+    },
+    "glowstone": {
+      "textures": "textures/pixel"
+    },
+    "piston_top": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "piston_top_sticky": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "piston_top_normal": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "piston_side": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "piston_bottom": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "observer_north": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "observer_south": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "observer_east": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "observer_west": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "observer_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "observer_bottom": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "melon_top": {
+      "textures": "textures/pixel"
+    },
+    "melon_side": {
+      "textures": "textures/pixel"
+    },
+    "melon_stem": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "pumpkin_stem": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "rail_normal": {
+      "textures": "textures/pixel"
+    },
+    "rail_normal_turned": {
+      "textures": "textures/pixel"
+    },
+    "rail_golden": {
+      "textures": "textures/pixel"
+    },
+    "rail_golden_powered": {
+      "textures": "textures/pixel"
+    },
+    "rail_detector": {
+      "textures": "textures/pixel"
+    },
+    "rail_detector_powered": {
+      "textures": "textures/pixel"
+    },
+    "rail_activator": {
+      "textures": "textures/pixel"
+    },
+    "rail_activator_powered": {
+      "textures": "textures/pixel"
+    },
+    "bed_bottom": {
+      "textures": "textures/pixel"
+    },
+    "cauldron_top": {
+      "textures": "textures/pixel"
+    },
+    "cauldron_inner": {
+      "textures": "textures/pixel"
+    },
+    "cauldron_side": {
+      "textures": "textures/pixel"
+    },
+    "cauldron_bottom": {
+      "textures": "textures/pixel"
+    },
+    "brewing_stand_base": {
+      "textures": "textures/pixel"
+    },
+    "brewing_stand": {
+      "textures": "textures/pixel"
+    },
+    "cake_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "cake_bottom": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "cake_west": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "cake_side": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "mushroom_block": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "mushroom_red_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "mushroom_red_bottom": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "mushroom_red_north": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "mushroom_red_south": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "mushroom_red_west": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "mushroom_red_east": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "mushroom_brown_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "mushroom_brown_bottom": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "mushroom_brown_north": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "mushroom_brown_south": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "mushroom_brown_west": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "mushroom_brown_east": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "vine": {
+      "textures": "textures/pixel"
+    },
+    "vine_carried": {
+      "textures": "textures/pixel"
+    },
+    "repeater_torch": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "repeater_up": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "repeater_floor": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "end_bricks": {
+      "textures": "textures/pixel"
+    },
+    "end_gateway": {
+      "textures": "textures/pixel"
+    },
+    "end_portal": {
+      "textures": "textures/pixel"
+    },
+    "end_rod": {
+      "textures": "textures/pixel"
+    },
+    "end_stone": {
+      "textures": "textures/pixel"
+    },
+    "endframe_top": {
+      "textures": "textures/pixel"
+    },
+    "endframe_bottom": {
+      "textures": "textures/pixel"
+    },
+    "endframe_side": {
+      "textures": "textures/pixel"
+    },
+    "endframe_eye": {
+      "textures": "textures/pixel"
+    },
+    "redstone_dust_cross": {
+      "textures": "textures/pixel"
+    },
+    "redstone_dust_line": {
+      "textures": "textures/pixel"
+    },
+    "redstone_lamp_off": {
+      "textures": "textures/pixel"
+    },
+    "redstone_lamp_on": {
+      "textures": "textures/pixel"
+    },
+    "enchanting_table_bottom": {
+      "textures": "textures/pixel"
+    },
+    "enchanting_table_side": {
+      "textures": "textures/pixel"
+    },
+    "enchanting_table_top": {
+      "textures": "textures/pixel"
+    },
+    "dragon_egg": {
+      "textures": "textures/pixel"
+    },
+    "hayblock_top": {
+      "textures": "textures/pixel"
+    },
+    "hayblock_side": {
+      "textures": "textures/pixel"
+    },
+    "bone_block_top": {
+      "textures": "textures/pixel"
+    },
+    "bone_block_side": {
+      "textures": "textures/pixel"
+    },
+    "cocoa": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "trip_wire": {
+      "textures": "textures/pixel"
+    },
+    "trip_wire_source": {
+      "textures": "textures/pixel"
+    },
+    "trip_wire_base": {
+      "textures": "textures/pixel"
+    },
+    "command_block": {
+      "textures": "textures/pixel"
+    },
+    "itemframe_background": {
+      "textures": "textures/pixel"
+    },
+    "flower_pot": {
+      "textures": "textures/pixel"
+    },
+    "carrots": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "potatoes": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "beetroot": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "anvil_base": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "anvil_top_damaged_x": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "reactor_core": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "glowing_obsidian": {
+      "textures": "textures/pixel"
+    },
+    "destroy": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "chest_inventory": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "chest_inventory_top": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "chest_inventory_side": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "chest_inventory_front": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "trapped_chest_inventory_front": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "ender_chest_inventory_top": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "ender_chest_inventory_side": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "ender_chest_inventory_front": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "missing_tile": {
+      "textures": "textures/pixel"
+    },
+    "flowing_water_grey": {
+      "quad": 0,
+      "textures": "textures/pixel"
+    },
+    "flowing_water": { //DEPRECATED "water_flow" is now replaced by water_flow_grey texture for a newer water coloring system
+      //this is only here or the purposes of backwards compatibility, and should no longer be used!
+      "quad": 0,
+      "textures": "textures/pixel"
+    },
+    "flowing_lava": {
+      "quad": 0,
+      "textures": "textures/pixel"
+    },
+    "chest_inventory_side": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "chest_inventory_front": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "trapped_chest_inventory_front": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "ender_chest_inventory_top": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "ender_chest_inventory_side": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "ender_chest_inventory_front": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "missing_tile": {
+      "textures": "textures/pixel"
+    },
+    "flowing_water_grey": {
+      "quad": 0,
+      "textures": "textures/pixel"
+    },
+    
+    
+    
+    "flowing_water": { //DEPRECATED "water_flow" is now replaced by water_flow_grey texture for a newer water coloring system
+      //this is only here or the purposes of backwards compatibility, and should no longer be used!
+      "quad": 0,
+      "textures": "textures/pixel"
+    },
+    "flowing_lava": {
+      "quad": 0,
+      "textures": "textures/pixel"
+    },
+    "wool": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "hardened_clay": {
+      "textures": "textures/pixel"
+    },
+    "stained_clay": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "fire_0": {
+      "textures": "textures/pixel"
+    },
+    "fire_1": {
+      "textures": "textures/pixel"
+    },
+    "still_water_grey": {
+      "textures": "textures/pixel"
+    },
+    "still_water": { //DEPRECATED "still_water" is now replaced by still_water_grey texture for a newer water coloring system
+      //this is only here or the purposes of backwards compatibility, and should no longer be used!
+      "textures": "textures/pixel"
+    },
+    "still_lava": {
+      "textures": "textures/pixel"
+    },
+    "cauldron_water": {
+      "textures": "textures/pixel"
+    },
+    "portal": {
+      "textures": "textures/pixel"
+    },
+    "kelp_a": {
+      "textures": "textures/pixel"
+    },
+    "kelp_b": {
+      "textures": "textures/pixel"
+    },
+    "kelp_c": {
+      "textures": "textures/pixel"
+    },
+    "kelp_d": {
+      "textures": "textures/pixel"
+    },
+    "kelp_top": {
+      "textures": "textures/pixel"
+    },
+    "kelp_top_bulb": {
+      "textures": "textures/pixel"
+    },
+    "dried_kelp_block_top": {
+      "textures": "textures/pixel"
+    },
+    "dried_kelp_block_side_a": {
+      "textures": "textures/pixel"
+    },
+    "dried_kelp_block_side_b": {
+      "textures": "textures/pixel"
+    },
+    "daylight_detector_side": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "daylight_detector_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "noteblock": {
+      "textures": "textures/pixel"
+    },
+    "comparator_up": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "comparator_torch": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "comparator_stone_slab": {
+      "textures": "textures/pixel"
+    },
+    "command_block_front": {
+      "textures": "textures/pixel"
+    },
+    "command_block_back": {
+      "textures": "textures/pixel"
+    },
+    "command_block_side": {
+      "textures": "textures/pixel"
+    },
+    "command_block_conditional_side": {
+      "textures": "textures/pixel"
+    },
+    "command_block_chain_front": {
+      "textures": "textures/pixel"
+    },
+    "command_block_chain_back": {
+      "textures": "textures/pixel"
+    },
+    "command_block_chain_side": {
+      "textures": "textures/pixel"
+    },
+    "command_block_chain_conditional_side": {
+      "textures": "textures/pixel"
+    },
+    "command_block_repeating_front": {
+      "textures": "textures/pixel"
+    },
+    "command_block_repeating_back": {
+      "textures": "textures/pixel"
+    },
+    "command_block_repeating_side": {
+      "textures": "textures/pixel"
+    },
+    "command_block_repeating_conditional_side": {
+      "textures": "textures/pixel"
+    },
+    "dispenser_front_horizontal": {
+      "textures": "textures/pixel"
+    },
+    "dispenser_front_vertical": {
+      "textures": "textures/pixel"
+    },
+    "dispenser_top": {
+      "textures": "textures/pixel"
+    },
+    "dispenser_side": {
+      "textures": "textures/pixel"
+    },
+    "dropper_front_horizontal": {
+      "textures": "textures/pixel"
+    },
+    "dropper_front_vertical": {
+      "textures": "textures/pixel"
+    },
+    "dropper_top": {
+      "textures": "textures/pixel"
+    },
+    "dropper_side": {
+      "textures": "textures/pixel"
+    },
+    "hopper_inside": {
+      "textures": "textures/pixel"
+    },
+    "hopper_outside": {
+      "textures": "textures/pixel"
+    },
+    "hopper_top": {
+      "textures": "textures/pixel"
+    },
+    "slime_block": {
+      "textures": "textures/pixel"
+    },
+    "camera_top": {
+      "textures": "textures/pixel"
+    },
+    "camera_side": {
+      "textures": "textures/pixel"
+    },
+    "camera_front": {
+      "textures": "textures/pixel"
+    },
+    "camera_back": {
+      "textures": "textures/pixel"
+    },
+    "border_block": {
+      "textures": "textures/pixel"
+    },
+    "build_allow": {
+      "textures": "textures/pixel"
+    },
+    "build_deny": {
+      "textures": "textures/pixel"
+    },
+    "prismarine": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "dark_prismarine": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "prismarine_bricks": {
+      "textures": [
+        "textures/pixel"
+      ]
+    },
+    "sea_lantern": {
+      "textures": "textures/pixel"
+    },
+    "sea_pickle": {
+      "textures": "textures/pixel"
+    },
+    "sea_pickle_carried": {
+      "textures": "textures/pixel"
+    },
+    "turtle_egg": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "turtle_egg_carried": {
+      "textures": "textures/pixel"
+    },
+    "beacon": {
+      "textures": "textures/pixel"
+    },
+    "beacon_core": {
+      "textures": "textures/pixel"
+    },
+    "beacon_base": {
+      "textures": "textures/pixel"
+    },
+    "beacon_shell": {
+      "textures": "textures/pixel"
+    },
+    "conduit": {
+      "textures": "textures/pixel"
+    },
+    "stained_glass": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "stained_glass_pane_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "shulker_box_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "undyed_shulker_box_top": {
+      "textures": "textures/pixel"
+    },
+    "concrete": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "concretePowder": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "black_glazed_terracotta": {
+      "textures": "textures/pixel"
+    },
+    "blue_glazed_terracotta": {
+      "textures": "textures/pixel"
+    },
+    "brown_glazed_terracotta": {
+      "textures": "textures/pixel"
+    },
+    "cyan_glazed_terracotta": {
+      "textures": "textures/pixel"
+    },
+    "gray_glazed_terracotta": {
+      "textures": "textures/pixel"
+    },
+    "green_glazed_terracotta": {
+      "textures": "textures/pixel"
+    },
+    "light_blue_glazed_terracotta": {
+      "textures": "textures/pixel"
+    },
+    "lime_glazed_terracotta": {
+      "textures": "textures/pixel"
+    },
+    "magenta_glazed_terracotta": {
+      "textures": "textures/pixel"
+    },
+    "orange_glazed_terracotta": {
+      "textures": "textures/pixel"
+    },
+    "pink_glazed_terracotta": {
+      "textures": "textures/pixel"
+    },
+    "purple_glazed_terracotta": {
+      "textures": "textures/pixel"
+    },
+    "red_glazed_terracotta": {
+      "textures": "textures/pixel"
+    },
+    "silver_glazed_terracotta": {
+      "textures": "textures/pixel"
+    },
+    "white_glazed_terracotta": {
+      "textures": "textures/pixel"
+    },
+    "yellow_glazed_terracotta": {
+      "textures": "textures/pixel"
+    },
+    "frosted_ice": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "bamboo_stem": {
+      "textures": "textures/pixel"
+    },
+    "bamboo_leaf": {
+      "textures": "textures/pixel"
+    },
+    "bamboo_small_leaf": {
+      "textures": "textures/pixel"
+    },
+    "bamboo_singleleaf": {
+      "textures": "textures/pixel"
+    },
+    "bamboo_sapling": {
+      "textures": "textures/pixel"
+    },
+    "bamboo_carried": {
+      "textures": "textures/pixel"
+    },
+    "scaffolding_top": {
+      "textures": "textures/pixel"
+    },
+    "scaffolding_bottom": {
+      "textures": "textures/pixel"
+    },
+    "scaffolding_side": {
+      "textures": "textures/pixel"
+    },
+    "granite": {
+      "textures": "textures/pixel"
+    },
+    "diorite": {
+      "textures": "textures/pixel"
+    },
+    "andesite": {
+      "textures": "textures/pixel"
+    },
+    "smooth_sandstone": {
+      "textures": "textures/pixel"
+    },
+    "smooth_red_sandstone": {
+      "textures": "textures/pixel"
+    },
+    "mossy_stone_brick": {
+      "textures": "textures/pixel"
+    },
+    "polished_diorite": {
+      "textures": "textures/pixel"
+    },
+    "polished_andesite": {
+      "textures": "textures/pixel"
+    },
+    "polished_granite": {
+      "textures": "textures/pixel"
+    },
+    "smooth_stone": {
+      "textures": "textures/pixel"
+    },
+    "grindstone_leg": {
+      "textures": "textures/pixel"
+    },
+    "grindstone_pivot": {
+      "textures": "textures/pixel"
+    },
+    "grindstone_round": {
+      "textures": "textures/pixel"
+    },
+    "grindstone_side": {
+      "textures": "textures/pixel"
+    },
+    "bell_top": {
+      "textures": "textures/pixel"
+    },
+    "bell_bottom": {
+      "textures": "textures/pixel"
+    },
+    "bell_side": {
+      "textures": "textures/pixel"
+    },
+    "bell_carried": {
+      "textures": "textures/pixel"
+    },
+    "bell_stone": {
+      "textures": "textures/pixel"
+    },
+    "cartography_table_side1": {
+      "textures": "textures/pixel"
+    },
+    "cartography_table_side2": {
+      "textures": "textures/pixel"
+    },
+    "cartography_table_side3": {
+      "textures": "textures/pixel"
+    },
+    "cartography_table_top": {
+      "textures": "textures/pixel"
+    },
+    "cartography_table_bottom": {
+      "textures": "textures/pixel"
+    },
+    "fletching_table_top": {
+      "textures": "textures/pixel"
+    },
+    "fletching_table_side1": {
+      "textures": "textures/pixel"
+    },
+    "fletching_table_side2": {
+      "textures": "textures/pixel"
+    },
+    "barrel_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "barrel_bottom": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "barrel_side": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "smithing_table_bottom": {
+      "textures": "textures/pixel"
+    },
+    "smithing_table_front": {
+      "textures": "textures/pixel"
+    },
+    "smithing_table_side": {
+      "textures": "textures/pixel"
+    },
+    "smithing_table_top": {
+      "textures": "textures/pixel"
+    },
+    "smoker": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "smoker_front_off": {
+      "textures": "textures/pixel"
+    },
+    "smoker_front_on": {
+      "textures": "textures/pixel"
+    },
+    "smoker_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "smoker_bottom": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "smoker_side": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "blast_furnace": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "blast_furnace_front": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "blast_furnace_front_off": {
+      "textures": "textures/pixel"
+    },
+    "blast_furnace_front_on": {
+      "textures": "textures/pixel"
+    },
+    "blast_furnace_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "blast_furnace_side": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "lantern": {
+      "textures": "textures/pixel"
+    },
+    "lantern_carried": {
+      "textures": "textures/pixel"
+    },
+    "campfire_fire": {
+      "textures": "textures/pixel"
+    },
+    "campfire_log": {
+      "textures": "textures/pixel"
+    },
+    "campfire_log_lit": {
+      "textures": "textures/pixel"
+    },
+    "loom_top": {
+      "textures": "textures/pixel"
+    },
+    "loom_bottom": {
+      "textures": "textures/pixel"
+    },
+    "loom_side": {
+      "textures": "textures/pixel"
+    },
+    "loom_front": {
+      "textures": "textures/pixel"
+    },
+    "lectern_top": {
+      "textures": "textures/pixel"
+    },
+    "lectern_bottom": {
+      "textures": "textures/pixel"
+    },
+    "lectern_front": {
+      "textures": "textures/pixel"
+    },
+    "lectern_sides": {
+      "textures": "textures/pixel"
+    },
+    "lectern_base": {
+      "textures": "textures/pixel"
+    },
+    "wood": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "sweet_berry_bush_0": {
+      "textures": "textures/pixel"
+    },
+    "sweet_berry_bush_1": {
+      "textures": "textures/pixel"
+    },
+    "sweet_berry_bush_2": {
+      "textures": "textures/pixel"
+    },
+    "sweet_berry_bush_3": {
+      "textures": "textures/pixel"
+    },
+    "sweet_berry_bush_carried": {
+      "textures": "textures/pixel"
+    },
+    "composter_top": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    },
+    "composter_side": {
+      "textures": "textures/pixel"
+    },
+    "composter_bottom": {
+      "textures": "textures/pixel"
+    },
+    "light_block_carried": {
+      "textures": [
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel",
+        "textures/pixel"
+      ]
+    }
+    },
+    "texture_name": "atlas.terrain"
+}

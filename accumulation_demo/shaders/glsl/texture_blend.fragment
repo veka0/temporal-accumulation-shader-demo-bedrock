@@ -1,0 +1,41 @@
+#include "fragmentHeader.h"
+#include "uniformShaderConstants.h"
+precision highp float;
+#line 4
+
+in vec2 uv;
+inout vec4 gl_FragColor;
+
+void calc(inout float x, inout float y, float t) {
+	float dx = -x*x + x*t + y; y = x*x - y*y - t*t - x*y + y*t - x + y;
+	
+	// Other chaos equations.
+	//float dx = x*x - x*t + y + t; y = x*x + y*y + t*t - x*t + y*t - x + y;
+	//float dx = -x*x - t*t + x*t - y*t - x; y = -x*x + t*t + x*t - x - y;
+	//float dx = -t*t - x*y + t; y = -x*y + x*t + y + t;
+	//float dx = -x*x + y*y + t*t - x*y + y*t - t; y = y*y - x + t;
+	
+	x = dx;
+}
+
+void main()
+{
+	// Render only important part
+	if (gl_FragCoord.x < 32.0) {
+		gl_FragColor = vec4(0);
+		return;
+	}
+	
+	vec2 pos = vec2(0);
+	
+	vec3 clr = vec3(0.0);
+	
+	for (int i = 0; i < 500; i++) {
+		calc(pos.x, pos.y, mix(0.015, 0.07, CURRENT_COLOR.a));
+		
+		clr = round(pos*vec2(700.0))+vec2(0.0) == gl_FragCoord.xy-0.5-512.0 ? mix(vec3(0.0,1.0,1.0), vec3(1.0,0.0,0.0), float(i)/500.0) : clr;
+		
+	}
+	
+	gl_FragColor = vec4(max(clr, gl_FragColor.rgb)*step(0.01, CURRENT_COLOR.a)-1.0/255.0, 1);
+}

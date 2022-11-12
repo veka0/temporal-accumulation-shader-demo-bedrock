@@ -1,0 +1,697 @@
+[
+	{
+    "flipbook_texture": "textures/bg",
+    "atlas_tile": "custom",
+    "frames": [ 0 ],
+    "blend_frames": true,
+    "replicate": 1,
+    "ticks_per_frame": 1200
+  },
+	{
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "still_water",
+    "frames": [ 0 ],
+    "blend_frames": false,
+    "replicate": 1,
+    "ticks_per_frame": 1
+  },
+  
+	{
+		"replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "chemical_heat",
+    "frames": [ 0 ],
+    "blend_frames": false,
+    "ticks_per_frame": 1
+  },
+	{
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "sculk_sensor_tendril_active",
+    "frames": [ 0 ],
+    "blend_frames": false,
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "sculk_sensor_tendril_inactive",
+    "frames": [ 0 ],
+    "blend_frames": false,
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "sculk",
+    "frames": [ 0 ],
+    "blend_frames": false,
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "sculk_vein",
+    "frames": [ 0 ],
+    "blend_frames": false,
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_index": 1,
+    "atlas_tile": "sculk_catalyst_side",
+    "atlas_tile_variant": 1,
+    "frames": [ 0 ],
+    "blend_frames": false,
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_index": 1,
+    "atlas_tile": "sculk_catalyst_top",
+    "atlas_tile_variant": 1,
+    "frames": [ 0 ],
+    "blend_frames": false,
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "sculk_shrieker_inner_top",
+    "frames": [ 0 ],
+    "blend_frames": false,
+    "ticks_per_frame": 1
+  },
+  
+  
+  
+  
+  
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "crimson_log_side",
+    "frames": [ 0 ],
+    "blend_frames": false,
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "warped_stem_side",
+    "frames": [ 0 ],
+    "blend_frames": false,
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "soul_fire_0",
+    "ticks_per_frame": 1,
+    "blend_frames": false,
+    "frames": [ 0 ]
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "soul_fire_1",
+    "blend_frames": false,
+    "ticks_per_frame": 1,
+    "frames": [ 0 ]
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "respawn_anchor_top",
+    "atlas_index": 0,
+    "ticks_per_frame": 1,
+    "blend_frames": false,
+    "atlas_tile_variant": 0,
+    "frames": [ 0 ]
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "respawn_anchor_top",
+    "atlas_index": 1,
+    "ticks_per_frame": 1,
+    "blend_frames": false,
+    "atlas_tile_variant": 1,
+    "frames": [ 0 ]
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "respawn_anchor_top",
+    "atlas_index": 2,
+    "atlas_tile_variant": 2,
+    "blend_frames": false,
+    "ticks_per_frame": 1,
+    "frames": [ 0 ]
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "respawn_anchor_top",
+    "atlas_index": 3,
+    "ticks_per_frame": 1,
+    "blend_frames": false,
+    "atlas_tile_variant": 3,
+    "frames": [ 0 ]
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "respawn_anchor_top",
+    "atlas_index": 4,
+    "ticks_per_frame": 1,
+    "blend_frames": false,
+    "atlas_tile_variant": 4,
+    "frames": [ 0 ]
+  },
+  {
+    "replicate": 1, 
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "soul_campfire_fire",
+    "frames": [ 0 ],
+    "blend_frames": false,
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "soul_campfire_log_lit",
+    "frames": [ 0 ],
+    "blend_frames": false,
+    "ticks_per_frame": 1
+  },
+  
+  
+  
+  
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "fire_0",
+    "blend_frames": false,
+    "frames": [ 0 ]
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "fire_1",
+    "blend_frames": false,
+    "frames": [ 0 ]
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "still_water_grey",
+    "blend_frames": false,
+    "frames": [ 0 ],
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "flowing_water_grey",
+    "blend_frames": false,
+    "frames": [ 0 ]
+  },
+  {
+    "flipbook_texture": "textures/pixel", //DEPRECATED "water_flow" is now replaced by water_flow_grey texture for a newer water coloring system
+    "blend_frames": false,
+    "frames": [ 0 ],                                        //this is only here or the purposes of backwards compatibility, and should no longer be used!
+    "atlas_tile": "flowing_water",
+    "replicate": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "cauldron_water",
+    "blend_frames": false,
+    "frames": [ 0 ],
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "still_lava",
+    "blend_frames": false,
+    "frames": [ 0 ],
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "flowing_lava",
+    "blend_frames": false,
+    "ticks_per_frame": 1,
+    "frames": [ 0 ]
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "magma",
+    "blend_frames": false,
+    "frames": [ 0 ],
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_index": 0,
+    "atlas_tile_variant": 0,
+    "atlas_tile": "bubble_column_outer",
+    "ticks_per_frame": 1,
+    "frames": [ 0 ],
+    "blend_frames": false
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_index": 1,
+    "atlas_tile_variant": 1,
+    "atlas_tile": "bubble_column_outer",
+    "ticks_per_frame": 1,
+    "frames": [ 0 ],
+    "blend_frames": false
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_index": 2,
+    "atlas_tile_variant": 2,
+    "atlas_tile": "bubble_column_outer",
+    "ticks_per_frame": 1,
+    "frames": [ 0 ],
+    "blend_frames": false
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_index": 3,
+    "atlas_tile_variant": 3,
+    "atlas_tile": "bubble_column_outer",
+    "ticks_per_frame": 1,
+    "frames": [ 0 ],
+    "blend_frames": false
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_index": 4,
+    "atlas_tile_variant": 4,
+    "atlas_tile": "bubble_column_outer",
+    "ticks_per_frame": 1,
+    "frames": [ 0 ],
+    "blend_frames": false
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_index": 5,
+    "atlas_tile_variant": 5,
+    "atlas_tile": "bubble_column_outer",
+    "ticks_per_frame": 1,
+    "frames": [ 0 ],
+    "blend_frames": false
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_index": 6,
+    "atlas_tile_variant": 6,
+    "atlas_tile": "bubble_column_outer",
+    "ticks_per_frame": 1,
+    "frames": [ 0 ],
+    "blend_frames": false
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_index": 7,
+    "atlas_tile_variant": 7,
+    "atlas_tile": "bubble_column_outer",
+    "ticks_per_frame": 1,
+    "frames": [ 0 ],
+    "blend_frames": false
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_index": 0,
+    "atlas_tile_variant": 0,
+    "atlas_tile": "bubble_column_up_top",
+    "ticks_per_frame": 1,
+    "frames": [ 0 ],
+    "blend_frames": false
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_index": 1,
+    "atlas_tile_variant": 1,
+    "atlas_tile": "bubble_column_up_top",
+    "ticks_per_frame": 1,
+    "frames": [ 0 ],
+    "blend_frames": false
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_index": 2,
+    "atlas_tile_variant": 2,
+    "atlas_tile": "bubble_column_up_top",
+    "ticks_per_frame": 1,
+    "frames": [ 0 ],
+    "blend_frames": false
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_index": 3,
+    "atlas_tile_variant": 3,
+    "atlas_tile": "bubble_column_up_top",
+    "ticks_per_frame": 1,
+    "frames": [ 0 ],
+    "blend_frames": false
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_index": 0,
+    "atlas_tile_variant": 0,
+    "atlas_tile": "bubble_column_down_top",
+    "ticks_per_frame": 1,
+    "frames": [ 0 ],
+    "blend_frames": false
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_index": 1,
+    "atlas_tile_variant": 1,
+    "atlas_tile": "bubble_column_down_top",
+    "ticks_per_frame": 1,
+    "frames": [ 0 ],
+    "blend_frames": false
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_index": 2,
+    "atlas_tile_variant": 2,
+    "atlas_tile": "bubble_column_down_top",
+    "ticks_per_frame": 1,
+    "frames": [ 0 ],
+    "blend_frames": false
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_index": 3,
+    "atlas_tile_variant": 3,
+    "atlas_tile": "bubble_column_down_top",
+    "ticks_per_frame": 1,
+    "frames": [ 0 ],
+    "blend_frames": false
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_index": 0,
+    "atlas_tile_variant": 0,
+    "atlas_tile": "bubble_column_mid",
+    "ticks_per_frame": 1,
+    "frames": [ 0 ],
+    "blend_frames": false
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_index": 1,
+    "atlas_tile_variant": 1,
+    "atlas_tile": "bubble_column_mid",
+    "ticks_per_frame": 1,
+    "frames": [ 0 ],
+    "blend_frames": false
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "kelp_a",
+    "ticks_per_frame": 1,
+    "blend_frames": false,
+    "frames": [ 0 ]
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "kelp_b",
+    "ticks_per_frame": 1,
+    "blend_frames": false,
+    "frames": [ 0 ]
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "kelp_c",
+    "ticks_per_frame": 1,
+    "blend_frames": false,
+    "frames": [ 0 ]
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "kelp_d",
+    "ticks_per_frame": 1,
+    "blend_frames": false,
+    "frames": [ 0 ]
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "kelp_top",
+    "ticks_per_frame": 1,
+    "blend_frames": false,
+    "frames": [ 0 ]
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "kelp_top_bulb",
+    "ticks_per_frame": 1,
+    "blend_frames": false,
+    "frames": [ 0 ]
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "prismarine",
+    "ticks_per_frame": 1,
+    "blend_frames": false,
+    "frames": [ 0 ]
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "blend_frames": false,
+    "frames": [ 0 ],
+    "atlas_tile": "portal"
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "sea_lantern",
+    "frames": [ 0 ],
+    "blend_frames": false,
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "command_block_front",
+    "frames": [ 0 ],
+    "blend_frames": false,
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "command_block_back",
+    "blend_frames": false,
+    "frames": [ 0 ],
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "command_block_side",
+    "frames": [ 0 ],
+    "blend_frames": false,
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "command_block_conditional_side",
+    "frames": [ 0 ],
+    "blend_frames": false,
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "command_block_repeating_front",
+    "frames": [ 0 ],
+    "blend_frames": false,
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "command_block_repeating_back",
+    "frames": [ 0 ],
+    "blend_frames": false,
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "command_block_repeating_side",
+    "frames": [ 0 ],
+    "blend_frames": false,
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "command_block_repeating_conditional_side",
+    "blend_frames": false,
+    "frames": [ 0 ],
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "command_block_chain_front",
+    "blend_frames": false,
+    "frames": [ 0 ],
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "command_block_chain_back",
+    "blend_frames": false,
+    "frames": [ 0 ],
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "command_block_chain_side",
+    "blend_frames": false,
+    "frames": [ 0 ],
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "seagrass_short",
+    "blend_frames": false,
+    "frames": [ 0 ],
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "seagrass_tall_bot_a",
+    "blend_frames": false,
+    "frames": [ 0 ],
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "seagrass_tall_bot_b",
+    "blend_frames": false,
+    "frames": [ 0 ],
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "seagrass_tall_top_a",
+    "blend_frames": false,
+    "frames": [ 0 ],
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "seagrass_tall_top_b",
+    "blend_frames": false,
+    "frames": [ 0 ],
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "command_block_chain_conditional_side",
+    "blend_frames": false,
+    "frames": [ 0 ],
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "blast_furnace_front_on",
+    "blend_frames": false,
+    "frames": [ 0 ],
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "smoker_front_on",
+    "blend_frames": false,
+    "frames": [ 0 ],
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "campfire_fire",
+    "blend_frames": false,
+    "frames": [ 0 ],
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1, 
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "lantern",
+    "blend_frames": false,
+    "frames": [ 0 ],
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "stonecutter2_saw",
+    "blend_frames": false,
+    "frames": [ 0 ],
+    "ticks_per_frame": 1
+  },
+  {
+    "replicate": 1,
+    "flipbook_texture": "textures/pixel",
+    "atlas_tile": "campfire_log_lit",
+    "frames": [ 0 ],
+    "blend_frames": false,
+    "ticks_per_frame": 1
+  }  
+]

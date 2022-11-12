@@ -1,0 +1,18 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "",
+		"name": "Temporal accumulation demo shader",
+		"uuid": "95ab0264-f4f5-4ba6-86e0-cef68fa02db6",
+		"version": [0, 0, 1],
+		"min_engine_version": [1, 13, 0]
+	},
+	"modules": [
+		{
+			"description": "",
+			"type": "resources",
+			"uuid": "4e2b7219-10eb-480c-8914-1a9d75e973c9",
+			"version": [0, 0, 1]
+		}
+	]
+}
