@@ -1,5 +1,7 @@
 # temporal-accumulation-shader-demo-bedrock
 A tech demo of temporal accumulation for Minecraft: Bedrock Edition shaders
+## General
+This demo is a visualizer of chaos equations based on [this video](https://youtu.be/fDSIRXmnVvk "this video") that uses temporal accumulation to achieve trailing effect.
 ## Usage
 Run `/particle demo:accumulation` command.
 ## How it works
